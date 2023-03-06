@@ -1,0 +1,378 @@
+communications	4	artificial intelligence
+development	1	artificial intelligence governance
+integrity	1	artificial intelligence governance
+interests	10	artificial intelligence governance
+limitations	1	artificial intelligence governance
+interactions	1	artificial intelligence governance
+identification	1	artificial intelligence governance
+functionality	1	artificial intelligence governance
+enforcement	2	artificial intelligence governance
+confidentiality	1	artificial intelligence governance
+processes	1	artificial intelligence governance
+relation	4	artificial intelligence governance
+retention	4	artificial intelligence governance
+regulation	1	artificial intelligence governance
+security	7	artificial intelligence governance
+compliance	2	artificial intelligence governance
+classifications	1	artificial intelligence governance
+relevance	1	artificial intelligence governance
+reporting	1	artificial intelligence governance
+technology	1	artificial intelligence governance
+accounting	1	artificial intelligence governance
+communications	4	artificial intelligence governance
+relevance	1	ethical technology
+functionality	1	ethical technology
+processes	1	ethical technology
+technology	1	ethical technology
+development	1	ethical technology
+practices	4	ethical technology
+integrity	1	ethical technology
+communications	4	ethical technology
+technologies	2	ethical technology
+functionality	1	digital innovation
+networking	3	digital innovation
+technology	1	digital innovation
+development	1	digital innovation
+marketing	23	digital innovation
+applications	2	digital innovation
+communications	4	digital innovation
+technologies	2	digital innovation
+functionality	1	responsible digital innovation
+networking	3	responsible digital innovation
+interactions	1	responsible digital innovation
+processes	1	responsible digital innovation
+application	3	responsible digital innovation
+technology	1	responsible digital innovation
+development	1	responsible digital innovation
+identification	1	responsible digital innovation
+compliance	2	responsible digital innovation
+marketing	23	responsible digital innovation
+applications	2	responsible digital innovation
+accounting	1	responsible digital innovation
+communications	4	responsible digital innovation
+technologies	2	responsible digital innovation
+relevance	1	philosophical aspects
+principles	1	philosophical aspects
+experiences	1	philosophical aspects
+practices	4	philosophical aspects
+aspects	2	philosophical aspects
+nature	2	philosophical aspects
+characteristics	2	philosophical aspects
+subjects	1	philosophical aspects
+relevance	1	sustainability
+technology	1	sustainability
+development	1	sustainability
+integrity	1	sustainability
+compliance	2	sustainability
+technologies	2	sustainability
+functionality	1	sustainable development
+education	1	sustainable development
+interactions	1	sustainable development
+processes	1	sustainable development
+planning	1	sustainable development
+technology	1	sustainable development
+activities	3	sustainable development
+regulation	1	sustainable development
+development	1	sustainable development
+marketing	23	sustainable development
+communications	4	sustainable development
+technologies	2	sustainable development
+networking	3	technological corporate digital responsibility
+development	1	technological corporate digital responsibility
+applications	2	technological corporate digital responsibility
+limitations	1	technological corporate digital responsibility
+interactions	1	technological corporate digital responsibility
+identification	1	technological corporate digital responsibility
+industry	3	technological corporate digital responsibility
+functionality	1	technological corporate digital responsibility
+technologies	2	technological corporate digital responsibility
+companies	4	technological corporate digital responsibility
+confidentiality	1	technological corporate digital responsibility
+processes	1	technological corporate digital responsibility
+compliance	2	technological corporate digital responsibility
+marketing	23	technological corporate digital responsibility
+advertising	13	technological corporate digital responsibility
+relevance	1	technological corporate digital responsibility
+technology	1	technological corporate digital responsibility
+business	9	technological corporate digital responsibility
+transaction	1	technological corporate digital responsibility
+accounting	1	technological corporate digital responsibility
+communications	4	technological corporate digital responsibility
+classifications	1	sociotechnical
+education	1	sociotechnical
+limitations	1	sociotechnical
+publications	1	sociotechnical
+relation	4	sociotechnical
+development	1	sociotechnical
+identification	1	sociotechnical
+applications	2	sociotechnical
+accounting	1	sociotechnical
+communications	4	sociotechnical
+research	1	sociotechnical
+relevance	1	ethical artificial intelligence
+confidentiality	1	ethical artificial intelligence
+interactions	1	ethical artificial intelligence
+relation	4	ethical artificial intelligence
+identification	1	ethical artificial intelligence
+integrity	1	ethical artificial intelligence
+nature	2	ethical artificial intelligence
+communications	4	ethical artificial intelligence
+functionality	1	ethical artificial intelligence
+​integrity	1	corporate responsibility
+business	9	corporate responsibility
+communications	4	corporate responsibility
+policies	3	corporate responsibility
+companies	4	corporate responsibility
+marketing	23	corporate responsibility
+obligation	5	corporate responsibility
+individual	6	corporate responsibility
+interests	10	corporate responsibility
+obligations	1	corporate responsibility
+authority	1	corporate responsibility
+accounting	1	corporate responsibility
+confidentiality	1	corporate responsibility
+compliance	2	corporate responsibility
+companies	4	corporates
+businesses	1	corporates
+accounting	1	corporates
+metadata	1	data privacy
+data	86	data privacy
+privacy	32	data privacy
+datas	1	data privacy
+information	133	data privacy
+applications	2	digital services
+communications	4	digital services
+providers	3	digital services
+services	53	digital services
+marketing	23	digital services
+technology	1	digital services
+service	61	digital services
+programs	1	digital services
+networking	3	digital services
+technologies	2	digital services
+retention	4	digitalization
+interactions	1	digitalization
+application	3	digitalization
+regulation	1	digitalization
+accounting	1	digitalization
+functionality	1	digitalization
+placement	1	digitalization
+limitation	2	digitalization
+limitations	1	digitalization
+processes	1	digitalization
+technologies	2	digitalization
+development	1	digitalization
+publications	1	digitalization
+modification	1	digitalization
+communications	4	digitalization
+marketing	23	digitalization
+applications	2	digitalization
+classifications	1	digitalization
+correction	3	digitalization
+technology	1	digitalization
+transaction	1	digitalization
+relation	4	digitalization
+functions	2	digitalization
+geolocation	1	digitalization
+processing	14	digitalization
+identification	1	digitalization
+standards	1	ethical guidelines
+principles	1	ethical guidelines
+requirements	2	ethical guidelines
+policies	3	ethical guidelines
+relevance	1	ethical guidelines
+limitations	1	ethical guidelines
+regulation	1	ethical guidelines
+confidentiality	1	ethical guidelines
+practices	4	ethical guidelines
+compliance	2	ethical guidelines
+retention	4	digitization
+operations	1	digitization
+interactions	1	digitization
+application	3	digitization
+regulation	1	digitization
+accounting	1	digitization
+functionality	1	digitization
+information	133	digitization
+education	1	digitization
+compliance	2	digitization
+restriction	1	digitization
+placement	1	digitization
+limitation	2	digitization
+limitations	1	digitization
+processes	1	digitization
+technologies	2	digitization
+development	1	digitization
+connection	3	digitization
+collection	7	digitization
+publications	1	digitization
+modification	1	digitization
+communications	4	digitization
+applications	2	digitization
+reservation	4	digitization
+classifications	1	digitization
+correction	3	digitization
+technology	1	digitization
+transaction	1	digitization
+relation	4	digitization
+functions	2	digitization
+geolocation	1	digitization
+processing	14	digitization
+identification	1	digitization
+metadata	1	data securities
+data	86	data securities
+transaction	1	data securities
+datas	1	data securities
+information	133	data securities
+metadata	1	data recovery circuits
+applications	2	data recovery circuits
+data	86	data recovery circuits
+processes	1	data recovery circuits
+processing	14	data recovery circuits
+datas	1	data recovery circuits
+information	133	data recovery circuits
+​advertising	13	corporate digital governance
+marketing	23	corporate digital governance
+compliance	2	corporate digital governance
+networking	3	corporate digital governance
+accounting	1	corporate digital governance
+business	9	corporate digital governance
+technology	1	corporate digital governance
+communications	4	corporate digital governance
+advertisement	3	corporate digital responsibility
+companies	4	corporate digital responsibility
+advertising	13	corporate digital responsibility
+marketing	23	corporate digital responsibility
+compliance	2	corporate digital responsibility
+networking	3	corporate digital responsibility
+accounting	1	corporate digital responsibility
+business	9	corporate digital responsibility
+technology	1	corporate digital responsibility
+communications	4	corporate digital responsibility
+advertisement	3	corporate social marketing
+communications	4	corporate social marketing
+advertising	13	corporate social marketing
+interests	10	corporate social marketing
+marketing	23	corporate social marketing
+businesses	1	corporate social marketing
+networking	3	corporate social marketing
+accounting	1	corporate social marketing
+business	9	corporate social marketing
+advertisements	2	corporate social marketing
+practices	4	corporate social marketing
+policies	3	corporate social responsibility
+education	1	corporate social responsibility
+interests	10	corporate social responsibility
+activities	3	corporate social responsibility
+individual	6	corporate social responsibility
+relation	4	corporate social responsibility
+accounting	1	corporate social responsibility
+practices	4	corporate social responsibility
+business	9	corporate social responsibility
+confidentiality	1	corporate social responsibility
+communications	4	corporate social responsibility
+information	133	data security
+datas	1	data security
+security	7	data security
+data	86	data security
+metadata	1	data security
+technologies	2	digital transformation
+processes	1	digital transformation
+interactions	1	digital transformation
+marketing	23	digital transformation
+development	1	digital transformation
+networking	3	digital transformation
+applications	2	digital transformation
+identification	1	digital transformation
+functionality	1	digital transformation
+technology	1	digital transformation
+communications	4	digital transformation
+advertising	13	online banking
+internet	3	online banking
+marketing	23	online banking
+planning	1	responsible corporate digital governance
+advertising	13	responsible corporate digital governance
+marketing	23	responsible corporate digital governance
+development	1	responsible corporate digital governance
+regulation	1	responsible corporate digital governance
+compliance	2	responsible corporate digital governance
+networking	3	responsible corporate digital governance
+accounting	1	responsible corporate digital governance
+practices	4	responsible corporate digital governance
+business	9	responsible corporate digital governance
+confidentiality	1	responsible corporate digital governance
+communications	4	responsible corporate digital governance
+technologies	2	digital responsibility
+marketing	23	digital responsibility
+compliance	2	digital responsibility
+accounting	1	digital responsibility
+functionality	1	digital responsibility
+technology	1	digital responsibility
+communications	4	digital responsibility
+interactions	1	digital social responsibility
+marketing	23	digital social responsibility
+functionality	1	digital social responsibility
+communications	4	digital social responsibility
+interactions	1	human marketing
+marketing	23	human marketing
+advertisement	3	societal marketing
+relevance	1	societal marketing
+interactions	1	societal marketing
+advertising	13	societal marketing
+marketing	23	societal marketing
+development	1	societal marketing
+networking	3	societal marketing
+accounting	1	societal marketing
+practices	4	societal marketing
+business	9	societal marketing
+communications	4	societal marketing
+security	7	cybersecurity
+transaction	1	data protection
+information	133	data protection
+application	3	data protection
+datas	1	data protection
+protection	5	data protection
+applications	2	data protection
+identification	1	data protection
+protections	2	data protection
+data	86	data protection
+metadata	1	data protection
+datas	1	data vulnerability
+data	86	data vulnerability
+information	133	data vulnerability
+metadata	1	data vulnerability
+marketing	23	electronic banking
+transaction	1	electronic banking
+accounting	1	electronic banking
+​data	86	data
+datas	1	data
+information	133	data
+metadata	1	data
+relation	4	organizational culture
+interactions	1	organizational culture
+interests	10	organizational culture
+publications	1	organizational culture
+communications	4	organizational culture
+identification	1	organizational culture
+practices	4	organizational culture
+education	1	organizational culture
+functionality	1	organizational culture
+activities	3	organizational culture
+development	1	organizational culture
+privacy	32	privacy
+applications	2	technologies
+technologies	2	technologies
+processes	1	technologies
+technology	1	technologies
+systems	1	technologies
+functionality	1	technologies
+devices	1	technologies
+analytics	1	technologies
+applications	2	digital technologies
+technologies	2	digital technologies
+software	1	digital technologies
+technology	1	digital technologies
+systems	1	digital technologies
+devices	1	digital technologies
+analytics	1	digital technologies
+marketing	23	digital technologies

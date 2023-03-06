@@ -1,0 +1,161 @@
+communication	1	artificial intelligence
+interaction	2	artificial intelligence
+interaction	2	artificial intelligence governance
+relation	2	artificial intelligence governance
+organizations	3	artificial intelligence governance
+retention	3	artificial intelligence governance
+communication	1	artificial intelligence governance
+development	2	artificial intelligence governance
+instance	1	artificial intelligence governance
+interests	1	artificial intelligence governance
+communication	1	ethical technology
+development	2	ethical technology
+interaction	2	ethical technology
+organizations	3	ethical technology
+communication	1	digital innovation
+development	2	digital innovation
+marketing	4	digital innovation
+interaction	2	responsible digital innovation
+organizations	3	responsible digital innovation
+communication	1	responsible digital innovation
+development	2	responsible digital innovation
+marketing	4	responsible digital innovation
+nature	1	philosophical aspects
+subjects	1	philosophical aspects
+development	2	sustainability
+interaction	2	sustainable development
+organizations	3	sustainable development
+activities	1	sustainable development
+communication	1	sustainable development
+development	2	sustainable development
+marketing	4	sustainable development
+interaction	2	technological corporate digital responsibility
+organizations	3	technological corporate digital responsibility
+communication	1	technological corporate digital responsibility
+development	2	technological corporate digital responsibility
+marketing	4	technological corporate digital responsibility
+communication	1	sociotechnical
+development	2	sociotechnical
+relation	2	sociotechnical
+nature	1	ethical artificial intelligence
+interaction	2	ethical artificial intelligence
+relation	2	ethical artificial intelligence
+communication	1	ethical artificial intelligence
+​organizations	3	corporate responsibility
+policies	1	corporate responsibility
+marketing	4	corporate responsibility
+interests	1	corporate responsibility
+communication	1	corporate responsibility
+administrators	2	corporate responsibility
+obligations	1	corporate responsibility
+banking	2	corporates
+organizations	3	corporates
+privacy	14	data privacy
+information	57	data privacy
+data	16	data privacy
+marketing	4	digital services
+services	3	digital services
+programs	1	digital services
+service	4	digital services
+communication	1	digital services
+retention	3	digitalization
+instruction	3	digitalization
+organizations	3	digitalization
+marketing	4	digitalization
+communication	1	digitalization
+alteration	1	digitalization
+registration	1	digitalization
+relation	2	digitalization
+development	2	digitalization
+processing	6	digitalization
+interaction	2	digitalization
+policies	1	ethical guidelines
+retention	3	digitization
+instruction	3	digitization
+organizations	3	digitization
+instructions	2	digitization
+document	2	digitization
+alteration	1	digitization
+communication	1	digitization
+registration	1	digitization
+installations	1	digitization
+relation	2	digitization
+development	2	digitization
+processing	6	digitization
+interaction	2	digitization
+information	57	digitization
+operation	2	digitization
+information	57	data securities
+statistics	2	data securities
+data	16	data securities
+processing	6	data recovery circuits
+information	57	data recovery circuits
+data	16	data recovery circuits
+​organizations	3	corporate digital governance
+marketing	4	corporate digital governance
+communication	1	corporate digital governance
+banking	2	corporate digital governance
+organizations	3	corporate digital responsibility
+marketing	4	corporate digital responsibility
+communication	1	corporate digital responsibility
+banking	2	corporate digital responsibility
+organizations	3	corporate social marketing
+marketing	4	corporate social marketing
+interests	1	corporate social marketing
+communication	1	corporate social marketing
+community	1	corporate social responsibility
+policies	1	corporate social responsibility
+interests	1	corporate social responsibility
+activities	1	corporate social responsibility
+relation	2	corporate social responsibility
+organizations	3	corporate social responsibility
+communication	1	corporate social responsibility
+data	16	data security
+information	57	data security
+marketing	4	digital transformation
+development	2	digital transformation
+communication	1	digital transformation
+interaction	2	digital transformation
+marketing	4	online banking
+internet	2	online banking
+banking	2	online banking
+banking	2	responsible corporate digital governance
+marketing	4	responsible corporate digital governance
+development	2	responsible corporate digital governance
+organizations	3	responsible corporate digital governance
+communication	1	responsible corporate digital governance
+marketing	4	digital responsibility
+communication	1	digital responsibility
+organizations	3	digital social responsibility
+marketing	4	digital social responsibility
+communication	1	digital social responsibility
+interaction	2	digital social responsibility
+marketing	4	human marketing
+interaction	2	human marketing
+interaction	2	societal marketing
+marketing	4	societal marketing
+development	2	societal marketing
+organizations	3	societal marketing
+communication	1	societal marketing
+data	16	data protection
+information	57	data protection
+protection	2	data protection
+statistics	2	data vulnerability
+data	16	data vulnerability
+information	57	data vulnerability
+marketing	4	electronic banking
+banking	2	electronic banking
+data	16	data
+information	57	data
+relation	2	organizational culture
+organizations	3	organizational culture
+community	1	organizational culture
+interests	1	organizational culture
+communication	1	organizational culture
+interaction	2	organizational culture
+activities	1	organizational culture
+development	2	organizational culture
+privacy	14	privacy
+systems	4	technologies
+systems	4	digital technologies
+marketing	4	digital technologies
