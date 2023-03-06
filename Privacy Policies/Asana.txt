@@ -1,0 +1,268 @@
+Terms & Policies
+User Terms of Service
+Privacy Statement
+Subscriber Terms
+Acceptable Use
+Cookies Notice
+DMCA Policy
+API Terms
+Law Enforcement Guidelines
+Amendment to Subscriber Terms
+Subprocessors
+Data Processing Addendum
+Privacy Commitment
+Data Security Standards
+Developer Sandbox Terms
+HIPAA BAA
+Asana Data Processing Addendum
+This Data Processing Addendum, including the Standard Contractual Clauses where applicable (“DPA”), is entered into between Asana, Inc. (“Asana”) and the entity identified in the Agreement (“Customer”) (each referred to as a “Party” and collectively as the “Parties”). This DPA is incorporated by reference into the applicable subscription agreement governing use of the Service (the “Agreement”) between the Parties. All capitalized terms used in this DPA but not defined will have the meaning set forth in the Agreement. To the extent of any conflict or inconsistency between this DPA, any previously executed data processing agreement, and the remaining terms of the Agreement, this DPA will govern.
+
+This DPA sets out the terms that apply when personal data is processed by Asana under the Agreement. The purpose of the DPA is to ensure such processing is conducted in accordance with Applicable Law and respects the rights of individuals whose personal data are processed under the Agreement.
+
+1. Definitions
+“Applicable Law(s)” means all applicable laws, regulations, and other legal or regulatory requirements in any jurisdiction relating to privacy, data protection, security, or the processing of personal data, including without limitation (i) the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq. (“CCPA” and subsequent California Privacy Rights Act of 2020 “CPRA”), (ii) the General Data Protection Regulation, Regulation (EU) 2016/679 (“GDPR”), (iii) in respect of the United Kingdom, the Data Protection Act 2018 (“UK DPA 2018”) and the GDPR as saved into United Kingdom law by virtue of section 3 of the United Kingdom’s European Union (Withdrawal) Act 2018 (the “UK GDPR”), (iv) the Swiss Federal Data Protection Act (“Swiss DPA”), and (v) the Act on the Protection of Personal Information (“APPI”). For the avoidance of doubt, if Asana’s processing activities involving personal data are not within the scope of an Applicable Law, such law is not applicable for purposes of this DPA.
+
+“Asana” means Asana, Inc., a company incorporated in Delaware, and its Affiliates.
+
+“controller”, “business operator”, “personal data”, “process”, “processing”, “processor”, and “data subject” will have the same meanings as defined by Applicable Law. Other relevant terms such as “business”, “business purpose”, “consumer”, “personal information”, “sale” (including the terms “sell”, “selling”, “sold”, and other variations thereof), “service provider”, “share” or “sharing” for purposes of “cross-context behavioral advertising”, and “third party” have the meanings given to those terms under Applicable Law.
+
+“Customer Personal Data” means personal data, personal information or personally identifiable information Customer uploads or otherwise inputs into the Service and which is processed in connection with the provision of the Service under the Agreement by Asana on behalf of the Customer. Unless otherwise agreed to in writing, Customer Personal Data processed pursuant to the Agreement explicitly excludes Restricted Data.
+
+“EEA” means the European Economic Area, which constitutes the member states of the European Union and Norway, Iceland, and Liechtenstein.
+
+“Restricted Data” means personal data that may be categorized as “special categories of data” under Applicable Laws including, but not limited to, social security numbers, financial account numbers, credit card information, or health information.
+
+“Restricted Transfer" means: (i) where the GDPR applies, a transfer of personal data from the EEA to a country outside of the EEA which is not subject to an adequacy determination by the European Commission; (ii) where the UK GDPR applies, a transfer of personal data from the United Kingdom to any other country which is not subject to adequacy regulations adopted pursuant to Section 17A of the UK DPA 2018; and (iii) where the Swiss DPA applies, a transfer of personal data to a country outside of Switzerland which is not included on the list of adequate jurisdictions published by the Swiss Federal Data Protection and Information Commissioner.
+
+“Security Incident” means any confirmed breach of security that results in the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data processed by Asana and/or its subprocessors in connection with the provision of the Service.
+
+“Standard Contractual Clauses” means (i) where the GDPR applies, the standard contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the European Council (available as of June 2021 https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj), (the “EU SCCs”); (ii) where the UK GDPR applies, the applicable standard data protection clauses adopted pursuant to Article 46(2)(c) or (d) of the UK GDPR including the standard data protection clauses issued by the commissioner under s119A(1) of the UK DPA 2018 as revised from time to time (“UK Addendum”); and (iii) where the Swiss DPA applies, the applicable standard data protection clauses issued, approved or recognized by the Swiss Federal Data Protection and Information Commissioner (the “Swiss SCCs”), in each case as completed as described in Section 9 (Data Transfers) below.
+
+2. Relationship of the Parties
+2.1 Asana as a Processor and Service Provider. The Parties acknowledge and agree that with regard to Customer Personal Data, Customer is a controller and business and Asana is a processor and service provider, as defined by Applicable Law.
+
+2.2 Asana as a Subprocessor. In circumstances in which Customer may be a processor, Customer appoints Asana as Customer’s subprocessor, which will not change the obligations of either Customer or Asana under this DPA.
+
+3. Customer’s Instructions to Asana
+3.1 Purpose Limitation. Asana will process Customer Personal Data (a) in order to provide the Service in accordance with the Agreement; (b) with Customer’s lawful instructions as set forth under Section 3.3; (c) as necessary to comply with Applicable Law; and (d) as otherwise agreed in writing. Customer, as the controller, acknowledges that the Service as provided is not intended for the storage or use of Restricted Data. At its sole discretion, Customer determines all categories and types of Customer Personal Data it may submit and transfer to Asana through the Service and agrees that compliance and security measures as set forth in the Agreement and this DPA are deemed sufficient safeguards for processing of any such Restricted Data that Customer provides to the Service.
+
+3.2 No Sale of Personal Information/Sharing for Targeted Advertising. Asana will not sell (as defined by Applicable Law) Customer Personal Data, share Customer Personal Data for purposes of cross-context behavioral advertising or otherwise process Customer Personal Data for any purpose other than as set forth in the Agreement, unless obligated to do so under Applicable Law. In such case, Asana will inform Customer of that legal requirement before such processing unless legally prohibited from doing so. Asana will not retain, use, or disclose Customer’s Personal Data for any commercial purposes (as defined by Applicable Law) other than to provide the Service. Asana understands its obligations as set forth in this section and will comply with them. Further details regarding Asana’s processing operations are set forth in Exhibit A.
+
+3.3 Lawful Instructions. Customer appoints Asana as a processor (or subprocessor) to process Customer Personal Data on behalf of, and in accordance with, Customer’s instructions. Customer will not instruct Asana to process Customer Personal Data in violation of Applicable Law. Asana will promptly inform Customer if, in Asana’s opinion, an instruction from Customer infringes Applicable Law. The Agreement, including this DPA, along with Customer’s configuration of the Service (as Customer may be able to modify from time to time), constitutes Customer’s complete and final instructions to Asana regarding the processing of Customer Personal Data, unless otherwise agreed in writing.
+
+4. Subprocessing
+4.1 Subprocessors. Customer acknowledges and agrees that Asana’s Affiliates and certain third parties may be retained as subprocessors (“Subprocessors”) to process Customer Personal Data on Asana’s behalf in order to provide the Service. Asana’s Subprocessors are listed at https://asana.com/terms#subprocessors. Asana will impose contractual obligations on any Subprocessor Asana appoints requiring it to protect Customer Personal Data to standards which are no less protective than those set forth under this DPA. Asana remains liable for its Subprocessors’ performance under this DPA to the same extent Asana is liable for its own performance. If Customer subscribes to receive updates available at https://asana.com/terms#subprocessors, Customer will be automatically notified of new Subprocessors ten (10) business days before Asana authorizes such Subprocessor to process Customer Personal Data (or in the case of an emergency, as soon as reasonably practicable). The subprocessor agreements to be provided under Clause 9 of the Standard Contractual Clauses may have all commercial information, or provisions unrelated to the Standard Contractual Clauses, redacted prior to sharing with Customer, and Customer agrees that such copies will be provided only upon Customer’s written request.
+
+4.2 Right to Object. Customer may object to Asana’s use of a new Subprocessor (based on reasonable grounds relating to data protection) by notifying Asana promptly in writing at dpa@asana.com within thirty (30) days after receipt of Asana’s notice as described in Section 4.1. In the event Customer objects to a new Subprocessor, Asana will use commercially reasonable efforts to make available to Customer a change in the Service or Customer’s configuration or use of the Service to avoid processing of Customer Personal Data by the objected-to new Subprocessor. If Asana is unable to make available such change within a reasonable period of time, which will not exceed thirty (30) days, either Party may upon written notice terminate without penalty the applicable Order Form(s) or the Agreement.
+
+5. Assistance and Cooperation
+5.1 Security. Asana will use appropriate technical and organizational measures to protect Customer Personal Data that it processes. Such measures will take into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing, as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, so as to ensure a level of security appropriate to the risk. Asana will ensure that the persons Asana authorizes to process Customer Personal Data are subject to written confidentiality agreements or a statutory obligation of confidentiality no less protective than the confidentiality obligations set forth in the Agreement.
+
+5.2 Security Incident Notification and Response. To the extent required by Applicable Law and taking into account the nature of processing and the information available to Asana, Asana will assist Customer by notifying it of a Security Incident without undue delay or within the time period required under Applicable Law. To the extent available, this notification will include Asana’s then-current assessment of the following:
+
+(a)  the nature of the Security Incident, including, where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
+
+(b) the likely consequences of the Security Incident; and
+
+(c) measures taken or proposed to be taken by Asana to address the Security Incident, including, where applicable, measures to mitigate its possible adverse effects.
+
+Asana will provide timely and periodic updates to Customer as additional information regarding the Security Incident becomes available. Customer acknowledges that any updates may be based on incomplete information. Asana will not assess the contents of Customer Data for the purpose of determining if such Customer Data is subject to any requirements under Applicable Law. Nothing in this DPA or in the Standard Contractual Clauses will be construed to require Asana to violate, or delay compliance with, any legal obligation it may have with respect to a Security Incident or other security incidents generally.
+
+6. Responding to Individuals Exercising Their Rights Under Applicable Law
+To the extent legally permitted, Asana will refer the individual back to the Customer if Asana receives any requests from an individual seeking to exercise any rights afforded to them under Applicable Law regarding their personal data, which may include: access, rectification, restriction of processing, erasure (“right to be forgotten”), data portability, objection to the processing, or to not be subject to an automated individual decision making (each, a “Data Subject Request”). In the event Customer is unable to address a Data Subject Request in its use of the Service, Asana will, upon Customer’s request, provide commercially reasonable efforts to assist Customer in responding to such Data Subject Request, to the extent Asana is legally permitted to do so and the response to such Data Subject Request is required under Applicable Law. To the extent legally permitted, Customer will be responsible for any costs arising from Asana’s provision of additional functionality that Customer has requested to assist with a Data Subject Request.
+
+7. DPIAs and Consultation with Supervisory Authorities or other Regulatory Authorities
+Taking into account the nature of the processing and the information available to Asana, Asana will provide reasonable assistance to and cooperation with Customer for Customer’s performance of any legally required data protection impact assessment of the processing or proposed processing of Customer Personal Data involving Asana, and in consultation with supervisory authorities or other regulatory authorities as required, by providing Customer with any publicly available documentation for the Service or by complying with Section 10 (Audits) below. Additional support for data protection impact assessments or relations with regulators may be available and would require mutual agreement on fees, the scope of Asana’s involvement, and any other terms that the Parties deem appropriate.
+
+8. Responding to Law Enforcement Requests
+To the extent legally permitted, upon request for data or records from law enforcement or a governmental entity, Asana will respond to such requests in accordance with the guidelines set forth at https://asana.com/terms#law-enforcement-guidelines. Asana responds only to law enforcement requests that adhere to established legal process and applicable laws.
+
+9. Data Transfers
+9.1 Customer authorizes Asana and its Subprocessors to make international transfers of Customer Personal Data in accordance with this DPA and Applicable Law.
+
+9.2 Customer acknowledges and agrees that, subject to compliance with Applicable Laws, Asana may process Customer Personal Data where Asana, its Affiliates or its subprocessors maintain data processing operations. The Parties agree that when the transfer of Customer Personal Data from Customer (as “data exporter”) to Asana (as “data importer”) is a Restricted Transfer and Applicable Law requires that appropriate safeguards are put in place, the Parties will be subject to the Standard Contractual Clauses, which will be deemed incorporated into and form a part of this DPA, as follows:
+
+(a) In relation to transfers of Customer Personal Data protected by the GDPR, the EU SCCs will be completed as follows:
+
+(i) The clauses as set forth in Module Two (controller to processor) will apply only to the extent Customer is a controller and Asana is a processor;
+
+(ii) The clauses as set forth in Module Three (processor to processor) will only apply to the extent Customer is a processor and Asana is a subprocessor;
+
+(iii) The “data exporter” is the Customer, and the exporter’s contact information is set forth below;
+
+(iv) The “data importer” is Asana, and Asana’s contact information is set forth below;
+
+(v) In Clause 7, the optional docking clause will apply;
+
+(vi) In Clause 9, Option 2 will apply, and the time period for prior notice of subprocessor changes will be as set out in Section 4.1 of this DPA;
+
+(vii) In Clause 11, the optional language will not apply;
+
+(viii) In Clause 17, Option 1 will apply, and the EU SCCs will be governed by Irish law;
+
+(ix) In Clause 18(b), disputes will be resolved before the courts of Ireland; and
+
+(x) Annexes I and II of the Appendix are set forth in Exhibit A below.
+
+(b) In relation to transfers of Customer Personal Data protected by the UK GDPR, the UK Addendum will apply to such transfers subject to the following:
+
+(i) Table 1 will be completed with the relevant information in Annex I set forth in Exhibit A;
+
+(ii) Table 2 will be completed with the selected modules and clauses the EU SCCs as identified in Section 9.2(a) of this DPA;
+
+(iii) Table 3 will be completed with the relevant information from Annexes I and II set forth in Exhibit A and Section 4.1 of this DPA; and
+
+(iv) In Table 4, the Importer may end the UK Addendum in accordance with the terms of the UK Addendum.
+
+(c) In relation to transfers of Customer Personal Data protected by the Swiss DPA, the EU SCCs will also apply to such transfers in accordance with paragraph (a) above, subject to the following:
+
+(i) Any references in the EU SCCs to “Directive 95/46/EC” or “Regulation (EU) 2016/679” will be interpreted as references to the Swiss DPA;
+
+(ii) Any references to “EU”, “Union” and “Member State law” will be interpreted as references to Swiss law; and
+
+(iii) Any references to the “competent supervisory authority” and “competent courts” will be interpreted as references to the relevant data protection authority and courts in Switzerland;
+
+unless the EU SCCs as implemented above cannot be used to lawfully transfer such Customer Personal Data in compliance with the Swiss DPA, in which event the Swiss SCCs will instead be incorporated by reference and form an integral part of this DPA and will apply to such transfers. Where this is the case, the relevant Annexes or Appendices of the Swiss SCCs will be populated using the information contained in Exhibit A of this DPA (as applicable).
+
+9.3 It is not the intention of either Party to contradict or restrict any of the provisions set forth in the Standard Contractual Clauses and, accordingly, if and to the extent the Standard Contractual Clauses conflict with any provision of the Agreement (including this DPA) the Standard Contractual Clauses will prevail to the extent of such conflict.
+
+9.4 By entering into this DPA, the Parties are deemed to be signing the applicable Standard Contractual Clauses and its applicable Appendices and Annexes.
+
+10. Audits
+10.1 Audit. Asana will allow for and contribute to audits conducted by Customer (or a third party auditor mutually agreed by both parties (“Auditor”)) of documentation, data, certifications, reports, and records relating to Asana's processing of Customer Personal Data (“Records”) for the sole purpose of determining Asana's compliance with this DPA subject to the terms of this Section 10 provided the Agreement remains in effect and such audit is at Customer’s sole expense (an “Audit”).
+
+10.2 Written Notice. Customer may request an Audit upon fourteen (14) days’ prior written notice to Asana, no more than once annually, except, in the event of a Security Incident occurring on Asana’s systems, in which case Customer may request an Audit within a reasonable period of time following such Security Incident.
+
+10.3 Further Written Requests and Inspections. To the extent that the provision of Records does not provide sufficient information to allow Customer to determine Asana’s compliance with the terms of this DPA, Customer may, as necessary: (i) request additional information from Asana in writing, and Asana will respond to such written requests in within a reasonable period of time (“Written Requests”); and (ii) only where Asana's responses to such Written Requests do not provide the necessary level of information required by Customer, request access to Asana's premises, systems and staff, upon twenty one (21) days prior written notice to Asana (an “Inspection”) subject to the parties having mutually agreed upon (a) the scope, timing, and duration of the Inspection, (b) the use of an Auditor to conduct the Inspection, (c) the Inspection being carried out only during Asana's regular business hours, with minimal disruption to Asana’s business operations, and (d) all costs associated with the Inspection being borne by Customer (including Asana's time in connection with facilitating the Inspection, charged at Asana's then-current rates). Inspections will be permitted no more than once annually, except in the event of a Security Incident.
+
+10.4 Confidentiality. In connection with any Audit or Inspection conducted in accordance with this Section 10, the Auditor must be bound by obligations of confidentiality no less protective than those contained in the Agreement. Auditors will not be entitled to receive any data or information pertaining to other clients of Asana or any other Confidential Information of Asana that is not directly relevant for the authorized purposes of the Audit or Inspection.
+
+10.5 Corrective Action. If any material non-compliance is identified by an Audit or Inspection, Asana will take prompt action to correct such non-compliance.
+
+11. Return or Destruction of Customer Personal Data
+Upon termination of the Agreement and written verified request from Customer’s authorized representative (which for purposes of this section is either a billing owner or an Administrator of the Service or a Customer personnel who has confirmed in writing that they are authorized to make decisions on behalf of the Customer), Asana will delete Customer Personal Data, unless prohibited by Applicable Law. If no such request is received by Asana following termination, Asana may delete Customer Personal Data in line with its Applicable Law.
+
+
+EXHIBIT A
+Annex I to the Standard Contractual Clauses
+
+A. LIST OF PARTIES
+
+MODULE TWO: Transfer controller to processor
+
+MODULE THREE: Transfer processor to processor
+
+Data exporter(s):	Details/Descriptions
+Name:	Customer, a user of the Service
+Address:	Address as listed in the Agreement
+Contact person’s name, position and contact details:	Contact information as listed in the Agreement
+Activities relevant to the data transferred under these Clauses:	Activities relevant are described in Section B below
+Signature and date:	See Section 9.4 of DPA
+Role (controller/processor):	Controller and/or processor
+Data importer(s):	Details/Descriptions
+Name:	Asana, Inc., provider of the Service
+Address:	633 Folsom Street, Suite 100, San Francisco, CA 94107
+Contact person’s name, position and contact details:	privacy@asana.com or dpo@asana.com
+Activities relevant to the data transferred under these Clauses:	Activities relevant are described in Section B below
+Signature and date:	See Section 9.4 of DPA
+Role (controller/processor):	Processor
+B. DESCRIPTION OF TRANSFER
+
+MODULE TWO: Transfer controller to processor
+
+MODULE THREE: Transfer processor to processor
+
+Categories of data subjects whose personal data is transferred
+
+The categories of data subjects whose personal data is transferred are determined solely by the data exporter. In the normal course of the data importer's Service, the categories of data subject might include (but are not limited to): the data exporter’s personnel, customers, service providers, business partners, affiliates and other End Users.
+
+Categories of personal data transferred
+
+The categories of personal data transferred are determined solely by the data exporter. In the normal course of the data importer's Service, the categories of personal data transferred might include (but are not limited to): name, email address, telephone, title, free text projects, and task lists entered by the data exporter or its End Users.
+
+Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.
+
+At its sole discretion, Customer determines all categories and types of Customer Personal Data it may submit and transfer to Asana through the Service and agrees that compliance and security measures as set forth in the Agreement and this DPA are deemed sufficient safeguards for processing of any such data that Customer provides to the Service.
+
+The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis).
+
+Continuous with use of the Service.
+
+Nature of the processing
+
+The provision of the Service to Customer in accordance with the Agreement.
+
+Purpose(s) of the data transfer and further processing
+
+To provide the Service to Customer as described in the Agreement.
+
+The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period
+
+For as long as necessary to provide the Service as described in the Agreement, as legally or contractually required, or upon receipt of Customer’s written request for deletion.
+
+For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing The subject matter, nature and duration of the processing are specified above and in the Agreement.
+
+C. COMPETENT SUPERVISORY AUTHORITY
+
+MODULE TWO: Transfer controller to processor
+
+MODULE THREE: Transfer processor to processor
+
+Identify the competent supervisory authority/ies in accordance with Clause 13
+
+Customer agrees the competent supervisory authority will be the Data Protection Commission (DPC) of Ireland.
+
+
+Annex II to the Standard Contractual Clauses
+
+TECHNICAL AND ORGANISATIONAL MEASURES INCLUDING TECHNICAL AND ORGANISATIONAL MEASURES TO ENSURE THE SECURITY OF THE DATA
+
+MODULE TWO: Transfer controller to processor
+
+MODULE THREE: Transfer processor to processor
+
+Description of the technical and organisational measures implemented by the data importer(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, and the risks for the rights and freedoms of natural persons.
+
+Asana emphasizes the following principles in the design and implementation of its security program and practices: (a) physical and environmental security to protect the Service against unauthorized access, use, or modification; (b) maintaining availability for operation and use of the Service; (c) confidentiality to protect customer data; and (d) integrity to maintain the accuracy and consistency of data over its life cycle.
+
+Description of Asana’s current technical and organizational security measures can be found at https://asana.com/terms#security-standards.
+
+Specific measures:
+
+Measure	Description
+Measures of pseudonymisation and encryption of personal data	Asana will encrypt Customer Data in transit and at rest using industry-standard encryption algorithms that are appropriate for the mechanism of transfer (e.g. TLS 1.2, AES-256).
+Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services	Asana will implement and maintain a risk-based information security program that includes administrative, technical, and organizational safeguards designed to protect the confidentiality, integrity, and availability of Customer Data. Asana performs periodic assessments to monitor its information security program to identify risks and ensure controls are operating effectively by performing penetration tests, internal audits, and risk assessments. Asana maintains a risk management program to identify, monitor, and manage risks that may impact the confidentiality, integrity, and availability of Customer Data.
+Measures for ensuring the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident	Asana will implement and maintain a documented set of disaster recovery policies and procedures to enable the recovery or continuation of vital technology infrastructure and systems following a disaster. Additionally, Asana will perform annual tests of its disaster recovery plan and will make available a summary of the results to its customers. Asana will perform regular backups of Customer Data and ensure that backups have the same protections in place as production databases.
+Processes for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures in order to ensure the security of the processing	Asana performs periodic assessments to monitor its information security program to identify risks and ensure controls are operating effectively by performing penetration tests, internal audits, and risk assessments. Asana will engage qualified external auditors to perform assessments of its information security program against the SOC 2 AICPA Trust Services Criteria for Security, Availability, and Confidentiality, and the following standards ISO/IEC 27001:2013, ISO/IEC 27017:2015, ISO/IEC 27018:2019, ISO/IEC 27701:2019. Assessments will be conducted annually and will result in a SOC 2 Type 2 report and evidence of the aforementioned ISO certifications that will be made available to the Customer pursuant to their respective Agreement.
+Measures for user identification and authorisation	Access to Customer Data is restricted to authorized Asana personnel who are required to access Customer Data to perform functions as part of the delivery of services. Access to Customer Data must be through unique usernames and passwords and multi-factor authentication must be enabled. Access is disabled within one business day after an employee’s termination
+Measures for the protection of data during transmission	Asana will encrypt Customer Data in transit and at rest using industry-standard encryption algorithms that are appropriate for the mechanism of transfer (e.g. TLS 1.2, AES-256).
+Measures for the protection of data during storage	Customer Data is stored cross-regionally with AWS. Data backups are encrypted. Customer Data is encrypted in transit and at rest using industry-standard encryption algorithms that are appropriate for the mechanism of transfer (e.g. TLS 1.2, AES-256).
+Measures for ensuring physical security of locations at which personal data are processed	Asana will ensure that all physical locations that process, store, or transmit Customer Data are located in a secure physical facility. Asana will review third-party security certifications (e.g. SOC 2 Type 2) of its third-party cloud hosting providers on at least an annual basis to ensure that appropriate physical security controls are in place.
+Measures for ensuring events logging	All access to information security management systems at Asana are restricted, monitored, and logged. At a minimum, log entries include date, timestamp, action performed, and the user ID or device ID of the action performed. The level of additional detail to be recorded by each audit log will be proportional to the amount and sensitivity of the information stored and/or processed on that system. All logs are protected from change.
+Measures for ensuring system configuration, including default configuration	To prevent and minimize the potential for threats to Asana’s systems, baseline configurations are required prior to deployment of any user, network, or production equipment. Baseline configurations are in place for wireless security settings in order to ensure strong encryption and replace vendor default settings as part of deployment of network devices. Systems are centrally managed and configured to detect and alert on suspicious activity.
+Measures for internal IT and IT security governance and management	IT Security Governance and Management structures and processes are designed to ensure compliance with data protection principles at their effective implementation. Asana will have a dedicated security team responsible for implementing, maintaining, monitoring, and enforcing security safeguards aligned with the information security management system.
+Measures for certification/assurance of processes and products	Asana’s information security framework will be based on the ISO 27001 Information Security Management System and will cover the following areas: security risk management, policies and procedures, security incident management, access controls, vulnerability management, physical security, operational security, corporate security, infrastructure security, product security, business continuity disaster recovery, personnel security, security compliance, and vendor security. Asana will engage qualified external auditors to perform assessments of its information security program against the SOC 2 AICPA Trust Services Criteria for Security, Availability, and Confidentiality, and the following standards ISO/IEC 27001:2013, ISO/IEC 27017:2015, ISO/IEC 27018:2019, ISO/IEC 27701:2019. Assessments will be conducted annually and will result in a SOC 2 Type 2 report and evidence of the aforementioned ISO certifications that will be made available to the Customer pursuant to their respective Agreement.
+Measures for ensuring data minimisation	Asana only collects information that is necessary in order to provide the Services outlined in our Terms of Service, Privacy Statement, and the Customer Agreement. Our employees are directed to access only the minimum amount of information necessary to perform the task at hand.
+Measures for ensuring data quality	Asana maintains web server and application log details that include any changes to sensitive configuration settings and files. At minimum, log entries include date, timestamp, action performed, and the user ID or the device ID of the action performed. Logs are protected from change. Users who would like to exercise their rights under applicable law to update information which is out of date or incorrect may do so at any time using this form. More information on data subject rights can be found in our Privacy Statement.
+Measures for ensuring limited data retention	Asana will retain information for the period necessary to fulfill the purposes outlined in our Privacy Statement, unless a longer retention period is required or permitted by law, or where the Customer Agreement requires or permits specific retention or deletion periods. Customer may request deletion of data at any time and Customer Personal Data is deleted or anonymized upon termination of the Agreement.
+Measures for ensuring accountability	Asana has established a comprehensive GDPR compliance program and is committed to partnering with its customers and vendors on GDPR compliance eﬀorts. Some significant steps Asana has taken to align its practices with the GDPR include:
+
+Revisions to our policies and contracts with our partners, vendors, and users
+
+Enhancements to our security practices and procedures
+
+Closely reviewing and mapping the data we collect, use, and share
+
+Creating more robust internal privacy and security documentation
+
+Training employees on GDPR requirements and privacy and security best practices generally
+
+Carefully evaluating and building a data subject rights’ policy and response process. Below, we provide additional details about the core areas of Asana’s GDPR compliance program and how customers can use Asana to support their own GDPR compliance initiatives.
+
+Appointed a Data Protection Officer (“DPO”), who can be reached at dpo@asana.com.
+
+Asana oﬀers its customers who are controllers of EU personal data the option to enter into a robust data processing addendum (“DPA”) under which Asana commits to process and safeguard personal data in accordance with GDPR requirements. This includes current Standard Contractual Clauses and Asana’s commitment to process personal data consistent with the instructions of the data controller.
+Measures for allowing data portability and ensuring erasure	Asana provides a mechanism for individuals to exercise their privacy rights in accordance with applicable law. Individuals may contact Asana at any time using this form. More information can be found in our Privacy Statement.
+For transfers to (sub-) processors, also describe the specific technical and organisational measures to be taken by the (sub-) processor to be able to provide assistance to the controller and, for transfers from a processor to a sub-processor, to the data exporter
+
+As described in the DPA, Asana has measures in place to provide assistance to controllers as needed. Such measures include, but are not limited to, the ability to delete all Customer Personal Data associated with a domain and making available APIs to allow controllers to better manage and control their data. With regard to Data Subject Requests, in the event the controller is unable to address a Data Subject Request in its use of the Service, Asana will, upon request, provide commercially reasonable efforts to assist the controller in responding to such Data Subject Request, to the extent Asana is legally permitted to do so and the response to such Data Subject Request is required under Applicable Law. Data subjects may also exercise their rights by contacting Asana at any time using this form.
