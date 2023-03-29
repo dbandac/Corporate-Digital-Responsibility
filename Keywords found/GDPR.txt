@@ -1,0 +1,139 @@
+data	41	data|NOUN
+information	12	data|NOUN
+identification	1	organizational culture|NOUN
+functionality	1	organizational culture|NOUN
+organization	4	organizational culture|NOUN
+organizations	2	organizational culture|NOUN
+privacy	11	privacy|NOUN
+portability	1	technologies|NOUN
+functionality	1	technologies|NOUN
+technology	1	technologies|NOUN
+marketing	5	digital technologies|NOUN
+technology	1	digital technologies|NOUN
+marketing	5	corporate responsibility|NOUN
+companies	2	corporate responsibility|NOUN
+companys	2	corporate responsibility|NOUN
+authority	1	corporate responsibility|NOUN
+organization	4	corporate responsibility|NOUN
+policies	2	corporate responsibility|NOUN
+organizations	2	corporate responsibility|NOUN
+companys	2	corporates|NOUN
+companies	2	corporates|NOUN
+organizations	2	corporates|NOUN
+data	41	data privacy|NOUN
+information	12	data privacy|NOUN
+privacy	11	data privacy|NOUN
+marketing	5	digital services|NOUN
+service	5	digital services|NOUN
+services	4	digital services|NOUN
+technology	1	digital services|NOUN
+marketing	5	digitalization|NOUN
+identification	1	digitalization|NOUN
+portability	1	digitalization|NOUN
+functionality	1	digitalization|NOUN
+organization	4	digitalization|NOUN
+processing	4	digitalization|NOUN
+technology	1	digitalization|NOUN
+rectification	1	digitalization|NOUN
+organizations	2	digitalization|NOUN
+appropriate	2	ethical guidelines|ADJ
+identification	1	digitization|NOUN
+information	12	digitization|NOUN
+portability	1	digitization|NOUN
+functionality	1	digitization|NOUN
+organization	4	digitization|NOUN
+processing	4	digitization|NOUN
+technology	1	digitization|NOUN
+rectification	1	digitization|NOUN
+organizations	2	digitization|NOUN
+data	41	data recovery circuits|NOUN
+information	12	data recovery circuits|NOUN
+processing	4	data recovery circuits|NOUN
+data	41	data securities|NOUN
+information	12	data securities|NOUN
+identification	1	artificial intelligence governance|NOUN
+portability	1	artificial intelligence governance|NOUN
+functionality	1	artificial intelligence governance|NOUN
+security	1	artificial intelligence governance|NOUN
+organization	4	artificial intelligence governance|NOUN
+technology	1	artificial intelligence governance|NOUN
+organizations	2	artificial intelligence governance|NOUN
+marketing	5	digital innovation|NOUN
+portability	1	digital innovation|NOUN
+functionality	1	digital innovation|NOUN
+technology	1	digital innovation|NOUN
+marketing	5	responsible digital innovation|NOUN
+identification	1	responsible digital innovation|NOUN
+portability	1	responsible digital innovation|NOUN
+functionality	1	responsible digital innovation|NOUN
+organization	4	responsible digital innovation|NOUN
+technology	1	responsible digital innovation|NOUN
+organizations	2	responsible digital innovation|NOUN
+aspects	1	philosophical aspects|NOUN
+portability	1	sustainability|NOUN
+technology	1	sustainability|NOUN
+organization	4	sustainability|NOUN
+marketing	5	sustainable development|NOUN
+portability	1	sustainable development|NOUN
+functionality	1	sustainable development|NOUN
+technology	1	sustainable development|NOUN
+organization	4	sustainable development|NOUN
+organizations	2	sustainable development|NOUN
+marketing	5	technological corporate digital responsibility|NOUN
+companies	2	technological corporate digital responsibility|NOUN
+companys	2	technological corporate digital responsibility|NOUN
+identification	1	technological corporate digital responsibility|NOUN
+portability	1	technological corporate digital responsibility|NOUN
+functionality	1	technological corporate digital responsibility|NOUN
+organization	4	technological corporate digital responsibility|NOUN
+technology	1	technological corporate digital responsibility|NOUN
+advertising	4	technological corporate digital responsibility|NOUN
+organizations	2	technological corporate digital responsibility|NOUN
+identification	1	sociotechnical|NOUN
+marketing	5	corporate digital governance|NOUN
+technology	1	corporate digital governance|NOUN
+organization	4	corporate digital governance|NOUN
+advertising	4	corporate digital governance|NOUN
+organizations	2	corporate digital governance|NOUN
+marketing	5	corporate digital responsibility|NOUN
+companys	2	corporate digital responsibility|NOUN
+companies	2	corporate digital responsibility|NOUN
+portability	1	corporate digital responsibility|NOUN
+organization	4	corporate digital responsibility|NOUN
+technology	1	corporate digital responsibility|NOUN
+advertising	4	corporate digital responsibility|NOUN
+organizations	2	corporate digital responsibility|NOUN
+marketing	5	corporate social marketing|NOUN
+advertising	4	corporate social marketing|NOUN
+organization	4	corporate social marketing|NOUN
+organizations	2	corporate social marketing|NOUN
+policies	2	corporate social responsibility|NOUN
+organization	4	corporate social responsibility|NOUN
+organizations	2	corporate social responsibility|NOUN
+data	41	data security|NOUN
+information	12	data security|NOUN
+security	1	data security|NOUN
+marketing	5	digital transformation|NOUN
+identification	1	digital transformation|NOUN
+portability	1	digital transformation|NOUN
+functionality	1	digital transformation|NOUN
+technology	1	digital transformation|NOUN
+marketing	5	online banking|NOUN
+advertising	4	online banking|NOUN
+internet	1	online banking|NOUN
+marketing	5	digital social responsibility|NOUN
+portability	1	digital social responsibility|NOUN
+functionality	1	digital social responsibility|NOUN
+organizations	2	digital social responsibility|NOUN
+marketing	5	human marketing|NOUN
+marketing	5	societal marketing|NOUN
+advertising	4	societal marketing|NOUN
+organization	4	societal marketing|NOUN
+organizations	2	societal marketing|NOUN
+security	1	cybersecurity|NOUN
+protection	4	data protection|NOUN
+data	41	data protection|NOUN
+identification	1	data protection|NOUN
+information	12	data protection|NOUN
+portability	1	data protection|NOUN
+marketing	5	electronic banking|NOUN

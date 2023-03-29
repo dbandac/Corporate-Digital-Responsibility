@@ -1,0 +1,468 @@
+information	59	data|NOUN
+data	136	data|NOUN
+commitment	1	organizational culture|NOUN
+development	3	organizational culture|NOUN
+identities	1	organizational culture|NOUN
+community	2	organizational culture|NOUN
+interaction	1	organizational culture|NOUN
+integrations	1	organizational culture|NOUN
+interests	3	organizational culture|NOUN
+communications	10	organizational culture|NOUN
+communication	13	organizational culture|NOUN
+organization	3	organizational culture|NOUN
+organizations	1	organizational culture|NOUN
+education	2	organizational culture|NOUN
+participation	1	organizational culture|NOUN
+generation	1	organizational culture|NOUN
+engagement	3	organizational culture|NOUN
+functionality	1	organizational culture|NOUN
+activities	3	organizational culture|NOUN
+privacy	22	privacy|NOUN
+solutions	1	technologies|NOUN
+industries	1	technologies|NOUN
+productivity	1	technologies|NOUN
+applications	1	technologies|NOUN
+technology	4	technologies|NOUN
+systems	4	technologies|NOUN
+integrations	1	technologies|NOUN
+platforms	2	technologies|NOUN
+tools	7	technologies|NOUN
+devices	2	technologies|NOUN
+functionality	1	technologies|NOUN
+technologies	7	technologies|NOUN
+solutions	1	digital technologies|NOUN
+applications	1	digital technologies|NOUN
+technology	4	digital technologies|NOUN
+systems	4	digital technologies|NOUN
+integrations	1	digital technologies|NOUN
+platforms	2	digital technologies|NOUN
+platform	4	digital technologies|NOUN
+devices	2	digital technologies|NOUN
+marketing	6	digital technologies|NOUN
+technologies	7	digital technologies|NOUN
+business	8	corporate responsibility|NOUN
+commitment	1	corporate responsibility|NOUN
+interests	3	corporate responsibility|NOUN
+obligations	3	corporate responsibility|NOUN
+communication	13	corporate responsibility|NOUN
+engagement	3	corporate responsibility|NOUN
+compensation	1	corporate responsibility|NOUN
+workplace	3	corporate responsibility|NOUN
+authority	1	corporate responsibility|NOUN
+administrators	1	corporate responsibility|NOUN
+organizations	1	corporate responsibility|NOUN
+entities	2	corporate responsibility|NOUN
+marketing	6	corporate responsibility|NOUN
+transparency	1	corporate responsibility|NOUN
+communications	10	corporate responsibility|NOUN
+organization	3	corporate responsibility|NOUN
+profession	20	corporate responsibility|NOUN
+policies	5	corporate responsibility|NOUN
+compliance	1	corporate responsibility|NOUN
+companies	3	corporate responsibility|NOUN
+integrity	1	corporate responsibility|NOUN
+contracting	1	corporate responsibility|NOUN
+enterprise	6	corporate responsibility|NOUN
+participation	1	corporate responsibility|NOUN
+industries	1	corporates|NOUN
+companies	3	corporates|NOUN
+enterprise	6	corporates|NOUN
+organizations	1	corporates|NOUN
+entities	2	corporates|NOUN
+information	59	data privacy|NOUN
+privacy	22	data privacy|NOUN
+data	136	data privacy|NOUN
+networking	1	digital services|NOUN
+solutions	1	digital services|NOUN
+applications	1	digital services|NOUN
+technology	4	digital services|NOUN
+integrations	1	digital services|NOUN
+platforms	2	digital services|NOUN
+platform	4	digital services|NOUN
+communications	10	digital services|NOUN
+services	149	digital services|NOUN
+communication	13	digital services|NOUN
+provider	5	digital services|NOUN
+marketing	6	digital services|NOUN
+providers	3	digital services|NOUN
+service	163	digital services|NOUN
+technologies	7	digital services|NOUN
+solutions	1	digitalization|NOUN
+notifications	2	digitalization|NOUN
+authentication	1	digitalization|NOUN
+applications	1	digitalization|NOUN
+preparation	1	digitalization|NOUN
+communication	13	digitalization|NOUN
+engagement	3	digitalization|NOUN
+functionality	1	digitalization|NOUN
+effectiveness	1	digitalization|NOUN
+processing	2	digitalization|NOUN
+organizations	1	digitalization|NOUN
+generation	1	digitalization|NOUN
+marketing	6	digitalization|NOUN
+registration	1	digitalization|NOUN
+development	3	digitalization|NOUN
+productivity	1	digitalization|NOUN
+integrations	1	digitalization|NOUN
+communications	10	digitalization|NOUN
+organization	3	digitalization|NOUN
+function	2	digitalization|NOUN
+retention	1	digitalization|NOUN
+introduction	1	digitalization|NOUN
+application	3	digitalization|NOUN
+interaction	1	digitalization|NOUN
+technology	4	digitalization|NOUN
+participation	1	digitalization|NOUN
+technologies	7	digitalization|NOUN
+policies	5	ethical guidelines|NOUN
+guidelines	1	ethical guidelines|NOUN
+compliance	1	ethical guidelines|NOUN
+requirements	1	ethical guidelines|NOUN
+principles	1	ethical guidelines|NOUN
+suggestions	1	ethical guidelines|NOUN
+recommendations	2	ethical guidelines|NOUN
+solutions	1	digitization|NOUN
+notifications	2	digitization|NOUN
+authentication	1	digitization|NOUN
+applications	1	digitization|NOUN
+connection	20	digitization|NOUN
+preparation	1	digitization|NOUN
+communication	13	digitization|NOUN
+collection	4	digitization|NOUN
+engagement	3	digitization|NOUN
+recommendations	2	digitization|NOUN
+addition	5	digitization|NOUN
+functionality	1	digitization|NOUN
+compensation	1	digitization|NOUN
+processing	2	digitization|NOUN
+information	59	digitization|NOUN
+organizations	1	digitization|NOUN
+generation	1	digitization|NOUN
+registration	1	digitization|NOUN
+development	3	digitization|NOUN
+productivity	1	digitization|NOUN
+detection	1	digitization|NOUN
+integrations	1	digitization|NOUN
+communications	10	digitization|NOUN
+organization	3	digitization|NOUN
+function	2	digitization|NOUN
+education	2	digitization|NOUN
+retention	1	digitization|NOUN
+introduction	1	digitization|NOUN
+application	3	digitization|NOUN
+compliance	1	digitization|NOUN
+interaction	1	digitization|NOUN
+technology	4	digitization|NOUN
+participation	1	digitization|NOUN
+technologies	7	digitization|NOUN
+processing	2	data recovery circuits|NOUN
+information	59	data recovery circuits|NOUN
+data	136	data recovery circuits|NOUN
+applications	1	data recovery circuits|NOUN
+guidelines	1	ethical guideline|NOUN
+compliance	1	ethical guideline|NOUN
+requirements	1	ethical guideline|NOUN
+principles	1	ethical guideline|NOUN
+suggestions	1	ethical guideline|NOUN
+recommendations	2	ethical guideline|NOUN
+statistics	1	data securities|NOUN
+information	59	data securities|NOUN
+data	136	data securities|NOUN
+documents	1	data securities|NOUN
+interaction	1	artificial intelligence|NOUN
+integrations	1	artificial intelligence|NOUN
+communication	13	artificial intelligence|NOUN
+communications	10	artificial intelligence|NOUN
+commitment	1	artificial intelligence governance|NOUN
+identities	1	artificial intelligence governance|NOUN
+interests	3	artificial intelligence governance|NOUN
+preparation	1	artificial intelligence governance|NOUN
+communication	13	artificial intelligence governance|NOUN
+knowledge	2	artificial intelligence governance|NOUN
+engagement	3	artificial intelligence governance|NOUN
+recommendations	2	artificial intelligence governance|NOUN
+functionality	1	artificial intelligence governance|NOUN
+effectiveness	1	artificial intelligence governance|NOUN
+targeting	1	artificial intelligence governance|NOUN
+investigations	2	artificial intelligence governance|NOUN
+organizations	1	artificial intelligence governance|NOUN
+entities	2	artificial intelligence governance|NOUN
+enforcement	2	artificial intelligence governance|NOUN
+vulnerabilities	1	artificial intelligence governance|NOUN
+development	3	artificial intelligence governance|NOUN
+transparency	1	artificial intelligence governance|NOUN
+integrations	1	artificial intelligence governance|NOUN
+communications	10	artificial intelligence governance|NOUN
+organization	3	artificial intelligence governance|NOUN
+retention	1	artificial intelligence governance|NOUN
+security	12	artificial intelligence governance|NOUN
+compliance	1	artificial intelligence governance|NOUN
+interaction	1	artificial intelligence governance|NOUN
+technology	4	artificial intelligence governance|NOUN
+integrity	1	artificial intelligence governance|NOUN
+contracting	1	artificial intelligence governance|NOUN
+participation	1	artificial intelligence governance|NOUN
+solutions	1	ethical technology|NOUN
+development	3	ethical technology|NOUN
+effectiveness	1	ethical technology|NOUN
+productivity	1	ethical technology|NOUN
+interaction	1	ethical technology|NOUN
+technology	4	ethical technology|NOUN
+integrations	1	ethical technology|NOUN
+integrity	1	ethical technology|NOUN
+communications	10	ethical technology|NOUN
+communication	13	ethical technology|NOUN
+organization	3	ethical technology|NOUN
+profession	20	ethical technology|NOUN
+organizations	1	ethical technology|NOUN
+knowledge	2	ethical technology|NOUN
+functionality	1	ethical technology|NOUN
+technologies	7	ethical technology|NOUN
+networking	1	digital innovation|NOUN
+solutions	1	digital innovation|NOUN
+development	3	digital innovation|NOUN
+productivity	1	digital innovation|NOUN
+applications	1	digital innovation|NOUN
+technology	4	digital innovation|NOUN
+integrations	1	digital innovation|NOUN
+communications	10	digital innovation|NOUN
+enterprise	6	digital innovation|NOUN
+communication	13	digital innovation|NOUN
+generation	1	digital innovation|NOUN
+marketing	6	digital innovation|NOUN
+functionality	1	digital innovation|NOUN
+technologies	7	digital innovation|NOUN
+networking	1	responsible digital innovation|NOUN
+solutions	1	responsible digital innovation|NOUN
+commitment	1	responsible digital innovation|NOUN
+applications	1	responsible digital innovation|NOUN
+communication	13	responsible digital innovation|NOUN
+engagement	3	responsible digital innovation|NOUN
+functionality	1	responsible digital innovation|NOUN
+organizations	1	responsible digital innovation|NOUN
+generation	1	responsible digital innovation|NOUN
+marketing	6	responsible digital innovation|NOUN
+development	3	responsible digital innovation|NOUN
+productivity	1	responsible digital innovation|NOUN
+transparency	1	responsible digital innovation|NOUN
+integrations	1	responsible digital innovation|NOUN
+communications	10	responsible digital innovation|NOUN
+organization	3	responsible digital innovation|NOUN
+application	3	responsible digital innovation|NOUN
+compliance	1	responsible digital innovation|NOUN
+interaction	1	responsible digital innovation|NOUN
+technology	4	responsible digital innovation|NOUN
+contracting	1	responsible digital innovation|NOUN
+enterprise	6	responsible digital innovation|NOUN
+participation	1	responsible digital innovation|NOUN
+technologies	7	responsible digital innovation|NOUN
+experiences	1	philosophical aspects|NOUN
+knowledge	2	philosophical aspects|NOUN
+principles	1	philosophical aspects|NOUN
+solutions	1	sustainability|NOUN
+commitment	1	sustainability|NOUN
+development	3	sustainability|NOUN
+effectiveness	1	sustainability|NOUN
+productivity	1	sustainability|NOUN
+transparency	1	sustainability|NOUN
+compliance	1	sustainability|NOUN
+technology	4	sustainability|NOUN
+integrations	1	sustainability|NOUN
+integrity	1	sustainability|NOUN
+organization	3	sustainability|NOUN
+engagement	3	sustainability|NOUN
+visibility	2	sustainability|NOUN
+technologies	7	sustainability|NOUN
+solutions	1	sustainable development|NOUN
+commitment	1	sustainable development|NOUN
+preparation	1	sustainable development|NOUN
+communication	13	sustainable development|NOUN
+opportunities	8	sustainable development|NOUN
+engagement	3	sustainable development|NOUN
+functionality	1	sustainable development|NOUN
+activities	3	sustainable development|NOUN
+effectiveness	1	sustainable development|NOUN
+organizations	1	sustainable development|NOUN
+generation	1	sustainable development|NOUN
+marketing	6	sustainable development|NOUN
+development	3	sustainable development|NOUN
+productivity	1	sustainable development|NOUN
+integrations	1	sustainable development|NOUN
+communications	10	sustainable development|NOUN
+organization	3	sustainable development|NOUN
+education	2	sustainable development|NOUN
+introduction	1	sustainable development|NOUN
+interaction	1	sustainable development|NOUN
+technology	4	sustainable development|NOUN
+contracting	1	sustainable development|NOUN
+enterprise	6	sustainable development|NOUN
+participation	1	sustainable development|NOUN
+technologies	7	sustainable development|NOUN
+business	8	technological corporate digital responsibility|NOUN
+networking	1	technological corporate digital responsibility|NOUN
+commitment	1	technological corporate digital responsibility|NOUN
+solutions	1	technological corporate digital responsibility|NOUN
+applications	1	technological corporate digital responsibility|NOUN
+communication	13	technological corporate digital responsibility|NOUN
+opportunities	8	technological corporate digital responsibility|NOUN
+engagement	3	technological corporate digital responsibility|NOUN
+functionality	1	technological corporate digital responsibility|NOUN
+effectiveness	1	technological corporate digital responsibility|NOUN
+organizations	1	technological corporate digital responsibility|NOUN
+generation	1	technological corporate digital responsibility|NOUN
+marketing	6	technological corporate digital responsibility|NOUN
+vulnerabilities	1	technological corporate digital responsibility|NOUN
+development	3	technological corporate digital responsibility|NOUN
+productivity	1	technological corporate digital responsibility|NOUN
+transparency	1	technological corporate digital responsibility|NOUN
+integrations	1	technological corporate digital responsibility|NOUN
+communications	10	technological corporate digital responsibility|NOUN
+organization	3	technological corporate digital responsibility|NOUN
+industries	1	technological corporate digital responsibility|NOUN
+compliance	1	technological corporate digital responsibility|NOUN
+interaction	1	technological corporate digital responsibility|NOUN
+technology	4	technological corporate digital responsibility|NOUN
+companies	3	technological corporate digital responsibility|NOUN
+contracting	1	technological corporate digital responsibility|NOUN
+industry	5	technological corporate digital responsibility|NOUN
+enterprise	6	technological corporate digital responsibility|NOUN
+advertising	11	technological corporate digital responsibility|NOUN
+technologies	7	technological corporate digital responsibility|NOUN
+research	6	sociotechnical|NOUN
+development	3	sociotechnical|NOUN
+applications	1	sociotechnical|NOUN
+integrations	1	sociotechnical|NOUN
+communications	10	sociotechnical|NOUN
+communication	13	sociotechnical|NOUN
+profession	20	sociotechnical|NOUN
+education	2	sociotechnical|NOUN
+effectiveness	1	ethical artificial intelligence|NOUN
+interaction	1	ethical artificial intelligence|NOUN
+integrations	1	ethical artificial intelligence|NOUN
+integrity	1	ethical artificial intelligence|NOUN
+communications	10	ethical artificial intelligence|NOUN
+communication	13	ethical artificial intelligence|NOUN
+organization	3	ethical artificial intelligence|NOUN
+knowledge	2	ethical artificial intelligence|NOUN
+functionality	1	ethical artificial intelligence|NOUN
+business	8	corporate digital governance|NOUN
+networking	1	corporate digital governance|NOUN
+transparency	1	corporate digital governance|NOUN
+compliance	1	corporate digital governance|NOUN
+technology	4	corporate digital governance|NOUN
+integrations	1	corporate digital governance|NOUN
+marketing	6	corporate digital governance|NOUN
+communications	10	corporate digital governance|NOUN
+enterprise	6	corporate digital governance|NOUN
+communication	13	corporate digital governance|NOUN
+organization	3	corporate digital governance|NOUN
+organizations	1	corporate digital governance|NOUN
+engagement	3	corporate digital governance|NOUN
+advertising	11	corporate digital governance|NOUN
+business	8	corporate digital responsibility|NOUN
+networking	1	corporate digital responsibility|NOUN
+transparency	1	corporate digital responsibility|NOUN
+compliance	1	corporate digital responsibility|NOUN
+technology	4	corporate digital responsibility|NOUN
+integrations	1	corporate digital responsibility|NOUN
+marketing	6	corporate digital responsibility|NOUN
+companies	3	corporate digital responsibility|NOUN
+communications	10	corporate digital responsibility|NOUN
+contracting	1	corporate digital responsibility|NOUN
+enterprise	6	corporate digital responsibility|NOUN
+organization	3	corporate digital responsibility|NOUN
+communication	13	corporate digital responsibility|NOUN
+organizations	1	corporate digital responsibility|NOUN
+engagement	3	corporate digital responsibility|NOUN
+advertising	11	corporate digital responsibility|NOUN
+business	8	corporate social marketing|NOUN
+networking	1	corporate social marketing|NOUN
+integrations	1	corporate social marketing|NOUN
+marketing	6	corporate social marketing|NOUN
+interests	3	corporate social marketing|NOUN
+communications	10	corporate social marketing|NOUN
+enterprise	6	corporate social marketing|NOUN
+communication	13	corporate social marketing|NOUN
+organization	3	corporate social marketing|NOUN
+organizations	1	corporate social marketing|NOUN
+engagement	3	corporate social marketing|NOUN
+advertising	11	corporate social marketing|NOUN
+business	8	corporate social responsibility|NOUN
+commitment	1	corporate social responsibility|NOUN
+policies	5	corporate social responsibility|NOUN
+workplace	3	corporate social responsibility|NOUN
+identities	1	corporate social responsibility|NOUN
+community	2	corporate social responsibility|NOUN
+integrations	1	corporate social responsibility|NOUN
+interests	3	corporate social responsibility|NOUN
+entities	2	corporate social responsibility|NOUN
+communications	10	corporate social responsibility|NOUN
+communication	13	corporate social responsibility|NOUN
+organization	3	corporate social responsibility|NOUN
+profession	20	corporate social responsibility|NOUN
+organizations	1	corporate social responsibility|NOUN
+education	2	corporate social responsibility|NOUN
+participation	1	corporate social responsibility|NOUN
+engagement	3	corporate social responsibility|NOUN
+activities	3	corporate social responsibility|NOUN
+vulnerabilities	1	data security|NOUN
+information	59	data security|NOUN
+data	136	data security|NOUN
+security	12	data security|NOUN
+networking	1	digital transformation|NOUN
+solutions	1	digital transformation|NOUN
+development	3	digital transformation|NOUN
+applications	1	digital transformation|NOUN
+interaction	1	digital transformation|NOUN
+technology	4	digital transformation|NOUN
+integrations	1	digital transformation|NOUN
+communications	10	digital transformation|NOUN
+communication	13	digital transformation|NOUN
+generation	1	digital transformation|NOUN
+marketing	6	digital transformation|NOUN
+functionality	1	digital transformation|NOUN
+technologies	7	digital transformation|NOUN
+internet	1	online banking|NOUN
+advertising	11	online banking|NOUN
+marketing	6	online banking|NOUN
+interaction	1	digital social responsibility|NOUN
+integrations	1	digital social responsibility|NOUN
+marketing	6	digital social responsibility|NOUN
+communications	10	digital social responsibility|NOUN
+communication	13	digital social responsibility|NOUN
+organizations	1	digital social responsibility|NOUN
+engagement	3	digital social responsibility|NOUN
+functionality	1	digital social responsibility|NOUN
+interaction	1	human marketing|NOUN
+marketing	6	human marketing|NOUN
+productivity	1	human marketing|NOUN
+business	8	societal marketing|NOUN
+networking	1	societal marketing|NOUN
+development	3	societal marketing|NOUN
+productivity	1	societal marketing|NOUN
+interaction	1	societal marketing|NOUN
+integrations	1	societal marketing|NOUN
+marketing	6	societal marketing|NOUN
+communications	10	societal marketing|NOUN
+enterprise	6	societal marketing|NOUN
+communication	13	societal marketing|NOUN
+organization	3	societal marketing|NOUN
+organizations	1	societal marketing|NOUN
+engagement	3	societal marketing|NOUN
+advertising	11	societal marketing|NOUN
+vulnerabilities	1	cybersecurity|NOUN
+security	12	cybersecurity|NOUN
+notifications	2	data protection|NOUN
+applications	1	data protection|NOUN
+integrations	1	data protection|NOUN
+data	136	data protection|NOUN
+information	59	data protection|NOUN
+protection	2	data protection|NOUN
+application	3	data protection|NOUN
+statistics	1	data vulnerability|NOUN
+vulnerabilities	1	data vulnerability|NOUN
+information	59	data vulnerability|NOUN
+data	136	data vulnerability|NOUN
+enterprise	6	electronic banking|NOUN
+marketing	6	electronic banking|NOUN
+billing	1	electronic banking|NOUN
